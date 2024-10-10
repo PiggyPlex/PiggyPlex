@@ -8,7 +8,7 @@ I have a proven track record of delivering high-performance, visually appealing,
 
 ## Highlights
 - Completed 100+ projects for 40+ clients across various sectors including online radio, gaming, healthcare, education, and fashion.
-- Specializes in creating SEO-optimized, high-speed web applications with a focus on user experience and accessibility.
+- Specialising in creating SEO-optimised, high-speed web applications with a focus on user experience and accessibility.
 - Extensive experience in:
   - API integration
   - Real-time networking
@@ -24,7 +24,7 @@ I have a proven track record of delivering high-performance, visually appealing,
 - Motion Design
 - 3D Modeling
 - Video Editing
-- SEO Optimization
+- SEO Optimisation
 - Web Performance Tuning
 - Accessibility Standards
 - UI/UX Design

@@ -15,7 +15,7 @@ I have a proven track record of delivering high-performance, visually appealing,
   - Social media automation
   - Distributed computing
   - Artificial Intelligence
-  - Databases, data pipelines, daa warehousing, and big data
+  - Databases, data pipelines, data warehousing, and big data
  
 ## Technical proficiencies
 - Full-stack Development

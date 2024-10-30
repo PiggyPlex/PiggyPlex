@@ -1,8 +1,8 @@
 Hey, I'm PiggyPlex.
 
-Over the span of around 8 years, I've solidified my understanding in a diverse set of technologies and skills.
+Over the past 8 years, I've solidified my understanding of a diverse set of technologies and skills.
 
-I'm a versatile full-stack developer and digital creative with expertise spanning a number of industries: such as web and app development, graphic design, motion design, 3D modeling, and video editing.
+I'm a versatile full-stack developer and digital creative with expertise spanning a number of industries: such as web and app development, graphic design, motion design, 3D modelling, and video editing.
 
 I have a proven track record of delivering high-performance, visually appealing, and accessible digital solutions.
 

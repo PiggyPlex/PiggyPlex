@@ -14,7 +14,7 @@ I have a proven track record of delivering high-performance, visually appealing,
   - Real-time networking
   - Social media automation
   - Distributed computing
-  - Artificial Intelligence
+  - Artificial intelligence
   - Databases, data pipelines, data warehousing, and big data
  
 ## Technical proficiencies

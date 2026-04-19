@@ -20,4 +20,5 @@ favourite technologies:
 - airtable, zapier, notion, linear
 - agentic coding tools: cursor, copilot, codex
 - large language model families: gemma, claude opus, kimi, openai gpt, deepseek
-open to all technologies / learning new stuff though :)
+
+open to all technologies / learning newstuff though :)

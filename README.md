@@ -19,6 +19,6 @@ favourite technologies:
 - figma, photoshop, davinci resolve, blender
 - airtable, zapier, notion, linear
 - agentic coding tools: cursor, copilot, codex
-- large language model families: gemma, claude opus, kimi, openai gpt, deepseek
+- large language model families: gemma, claude opus, kimi, openai gpt, gemini, deepseek
 
-open to all technologies / learning newstuff though :)
+open to using all technologies + learning new stuff though :)

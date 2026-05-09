@@ -13,7 +13,7 @@ favourite technologies:
 - supabase, mongodb, postgresql, spacetimedb, influxdb, surrealdb, clickhouse, timescaledb, elasticsearch
 - rabbitmq, 0mq, celery, cloudflare
 - docker, terraform, kubernetes
-- grafana, prometheus, sentry, datagrip
+- grafana, prometheus, sentry, posthog, datagrip
 - github actions, circleci
 - graphql, rpc, protobuf/bebop
 - figma, photoshop, davinci resolve, blender
